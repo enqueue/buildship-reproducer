@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="eu.enqueue.gradlereproducer.bar.BarEntityTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-08-17T07:52:21" hostname="fmueller" time="0.003">
+  <properties/>
+  <testcase name="testEntity" classname="eu.enqueue.gradlereproducer.bar.BarEntityTest" time="0.003"/>
+  <testcase name="testFoo" classname="eu.enqueue.gradlereproducer.bar.BarEntityTest" time="0.0"/>
+  <system-out><![CDATA[Setting up the foo
+The qux is good
+Setting up the foo
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

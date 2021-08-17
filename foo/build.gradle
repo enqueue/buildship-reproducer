@@ -1,0 +1,16 @@
+configurations {
+    tests.extendsFrom (testImplementation) 
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.11'
+}
+
+task jarTest (type: Jar) {
+    from sourceSets.test.output
+    classifier = 'test'
+}
+
+artifacts {
+    tests jarTest
+}
