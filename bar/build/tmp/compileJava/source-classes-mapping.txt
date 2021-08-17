@@ -1,2 +1,0 @@
-eu/enqueue/gradlereproducer/bar/BarEntity.java
- eu.enqueue.gradlereproducer.bar.BarEntity

@@ -1,2 +1,0 @@
-eu/enqueue/gradlereproducer/foo/BaseTestCase.java
- eu.enqueue.gradlereproducer.foo.BaseTestCase

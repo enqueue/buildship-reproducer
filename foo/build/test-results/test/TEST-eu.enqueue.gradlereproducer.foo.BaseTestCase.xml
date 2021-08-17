@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="eu.enqueue.gradlereproducer.foo.BaseTestCase" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-17T07:50:53" hostname="fmueller" time="0.003">
-  <properties/>
-  <testcase name="testFoo" classname="eu.enqueue.gradlereproducer.foo.BaseTestCase" time="0.003"/>
-  <system-out><![CDATA[Setting up the foo
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
