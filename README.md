@@ -28,3 +28,9 @@ cannot be resolved.
 
 I suspect that setting the `without_test_code` flag to `true` universally
 might cause this error.
+
+## Software used
+
+- gradle 6.8.3
+- Eclipse 2021-06 (4.20.0)
+- Buildship: Eclipse Plug-ins for Gradle 3.1.5.v20210113-0929
